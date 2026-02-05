@@ -9,7 +9,6 @@ TexMobile is a hierarchical, lightweight deep learning framework designed for fi
 * **Multi-Task Learning**: Uses a weighted joint loss to balance global semantic structure and fine-grained categorization during training.
 
 ## 📊 Performance
-TexMobile achieves state-of-the-art performance on campus scene classification, outperforming several standard baseline architectures:
 
 | Model | Params | Test Accuracy |
 | :--- | :--- | :--- |
